@@ -1,0 +1,20 @@
+<svg id="perronautorefresh" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 256 256">
+<style type="text/css" >
+  <![CDATA[
+	svg#perronautorefresh path.perronrefresh {
+		animation: perronrefresh 4s linear infinite;
+		transform-origin: 50%;
+	}
+	@keyframes perronrefresh {
+		from {
+			transform: rotate(0deg);
+		}
+		to {
+			transform: rotate(360deg);
+		}
+	}
+  ]]>
+</style>
+<path class="perronrefresh" d="M194.167 88.219C180.65 65.801 156.064 50.795 128 50.795c-42.611 0-77.205 34.594-77.205 77.205S85.389 205.205 128 205.205s77.205-34.594 77.205-77.205h18.771c0 52.97-43.006 95.976-95.976 95.976S32.024 180.97 32.024 128 75.03 32.024 128 32.024c35.888 0 67.202 19.741 83.667 48.947l12.309-5.099-12.227 29.519-29.519-12.227 11.937-4.945Z"/>
+<path class="perroncode" d="m77.719 113.933 25.592-17.235v9.169l-17.57 11.445v.275l17.57 11.444v9.17l-25.592-17.236v-7.032ZM116.24 149.989h-8.155l21.813-59.978h8.155l-21.813 59.978ZM168.419 120.965l-25.592 17.236v-9.17l17.569-11.444v-.275l-17.569-11.445v-9.169l25.592 17.235v7.032Z" style="fill-rule:nonzero" transform="matrix(1.35744 0 0 1.30547 -40.265 -25.436)"/>
+</svg>
